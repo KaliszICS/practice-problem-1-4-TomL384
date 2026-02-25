@@ -1,3 +1,10 @@
+/** 
+        * File: Lesson 1.4 - Input
+		* Author: Tom Leung
+		* Date Created: February 20, 2026
+		* Date Last Modified: February 20, 2026
+		*/
+
 import java.util.Scanner;
 
 public class PracticeProblem {
